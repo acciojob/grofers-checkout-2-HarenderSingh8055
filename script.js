@@ -1,6 +1,6 @@
 //your code here
 // Get all the prices listed in the HTML table
-const prices = document.querySelectorAll('[data-ns-test="prices"]');
+const prices = document.querySelectorAll('[data-ns-test="price"]');
 
 // Calculate the sum of all prices
 let totalPrice = 0;
